@@ -1,4 +1,8 @@
-### Olá! Eu sou o Adso Araújo 👋
+### Tenho 33 anos, sou natural de Uberlândia - MG, mas estou morando em Guarapari - ES. Atualmente estou migrando da carreira de Engenheiro Civil para a área de Desenvolvimento. 
+
+Cursando o segundo período de Análise e Desenvolvimento de Sistemas e, simultaneamente, realizando o curso de Desenvolvimento de Software - Foco em Backend da Cubos Academy. Tive também a oportunidade de me graduar em Engenharia Civil pela Universidade Federal de Uberlândia em 2013 e atuar na na área por mais de 10 anos, tanto em empresas multinacionais, quanto em empresas nacionais de grande, médio e pequeno porte. No ano de 2019, realizei intercâmbio cultural na cidade de Londres para aperfeiçoamento da língua inglesa.
+
+Tenho interesse em atuar como Desenvolvedor Web back-end. 👋
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adso-araujo/) 
