@@ -5,15 +5,9 @@
 
 # 💻 Tech Stack:
 
-            <i class="devicon-javascript-plain"></i>
-          
-            <i class="devicon-nodejs-plain"></i>
             
-            <i class="devicon-typescript-plain"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
-            <i class="devicon-sqlite-plain"></i>
-          
-            <i class="devicon-git-plain"></i>
           
           
 
